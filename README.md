@@ -9,3 +9,8 @@ Repository  containing a list of projects and mock-ups that make use of Flutter
 * [Hamburger Maker](https://github.com/avfernandezz/flutter-bigcheese)
 
    Mockup from a dribble design implementing custom fonts and a trendy design.
+
+## Apps
+* [Private finance](https://github.com/avfernandezz/Private_finance)
+
+   App for managing the user's personal finances. Manage your savings, expenses and incomes, identify where the money is going.
